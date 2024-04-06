@@ -1,0 +1,8 @@
+[Defines]
+  DEC_SPECIFICATION                   = 0x00010005
+  PACKAGE_NAME                        = redwood
+  PACKAGE_GUID                        = A427E3FE-11F4-4A95-AB1D-DBC5C1D1D1F6
+  PACKAGE_VERSION                     = 0.1
+
+[Guids]
+  gredwoodTokenSpaceGuid                 = { 0xA427E3FE, 0x11F4, 0x4A95, { 0xAB, 0x1D, 0xDB, 0xC5, 0xC1, 0xD1, 0xD1, 0xF6 } }
